@@ -1,6 +1,5 @@
 // Calculadora que recebe 2 números do usuário e faz a operação desejada;
-// Este programa foi sendo desenvolvido e atualizado até a 5ª aula do ProgramAuto,
-// quando sua nova versão passou a ser feita no "calculadora2.c".
+// Este programa foi sendo desenvolvido e atualizado até a 5ª aula do ProgramAuto.
 #include <stdio.h>
 #include <math.h>
 
