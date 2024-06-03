@@ -1,0 +1,13 @@
+Faça uma redação descrevendo sua experiência com o projeto ProgramAuto. Coloque seus elogios ou críticas, seja honesto e polido. Não use mais que 3000 bytes.
+
+  Participei do ProgramAuto como aluno externo no período 2024.1 com o objetivo de conhecer a linguagem C e me preparar para minhas aulas da faculdade. 
+Tendo isso em mente, posso dizer que saio satisfeito do projeto, consegui aprender e praticar o C em diversos exercícios ao longo das aulas, além de 
+também exercitar comandos de terminal, algo que eu não esperava conhecer e que foi excelente. 
+
+  Acerca dos pontos positivos, destaco como principais o foco na prática de exercícios ao longo das aulas, onde os conceitos ensinados eram reforçados,
+e o contato com os monitores da matéria que estavam sempre a postos para nos ajudar com simpatia e paciência. Além disso, os assuntos eram muito bem
+divididos, o que mostrou como o projeto foi bem estruturado nesse quesito.
+
+  Por fim, acerca dos pontos negativos, os poucos que encontrei foram relacionados à infraestrutura, com quedas de internet no computador da UPE que 
+fechavam meu acesso ao servidor momentaneamente, perdendo trabalhos não salvos. Além disso, achei pouco prático programar diretamente no terminal, 
+creio que poderia ter sido ensinado o uso de IDE’s para realizar os exercícios e, posteriormente, enviá-los ao servidor.
